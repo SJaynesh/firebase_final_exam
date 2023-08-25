@@ -1,9 +1,5 @@
 # Firebase Final Exam
 
-## Project Definition :
-
-Company Role 
-
 ## Project Description :
 
 Design a multi-user authentication module with Firebase Firestore DB. User roles should be: Admin, Manager, Clerk and Employee. Do not use any Firebase Authentication service, instead use Firebase Firestore to manually achieve this.
